@@ -1,11 +1,16 @@
 ## References
 
-https://medium.com/@prashantramnyc/authenticate-rest-apis-in-node-js-using-jwt-json-web-tokens-f0e97669aad3
-https://auth0.com/blog/hashing-in-action-understanding-bcrypt/#Implementing--bcrypt
-https://www.npmjs.com/package/dotenv
-https://www.npmjs.com/package/jsonwebtoken
-https://firebase.google.com/docs/database/web/read-and-write
-https://tailwindcss.com/docs/border-color
+# https://medium.com/@prashantramnyc/authenticate-rest-apis-in-node-js-using-jwt-json-web-tokens-f0e97669aad3
+
+# https://auth0.com/blog/hashing-in-action-understanding-bcrypt/#Implementing--bcrypt
+
+# https://www.npmjs.com/package/dotenv
+
+# https://www.npmjs.com/package/jsonwebtoken
+
+# https://firebase.google.com/docs/database/web/read-and-write
+
+# https://tailwindcss.com/docs/border-color
 
 ## Dependencies USED:
 
